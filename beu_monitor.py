@@ -18,7 +18,7 @@ BEU_BASE_URL = "https://my.beu.edu.az"
 BEU_LOGIN_URL = f"{BEU_BASE_URL}/index.php"
 BEU_GRADES_URL = f"{BEU_BASE_URL}/?mod=grades"
 USERNAME = "230106049"
-PASSWORD = "Eltun2005"
+PASSWORD = "LTN2005055"
 
 CHECK_INTERVAL = 300  # 5 dəqiqə
 DATA_FILE = "beu_grades_data.json"
