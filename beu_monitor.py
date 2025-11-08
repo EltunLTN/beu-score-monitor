@@ -10,15 +10,15 @@ import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # Konfiqurasiya
-TELEGRAM_BOT_TOKEN = "8228861868:AAH_MaOrJ_T_BORcq8LSSPObS3F__ha_eJk"
+TELEGRAM_BOT_TOKEN = "TOKEN"
 TELEGRAM_CHAT_ID = "1355481688"
 
 # BEU Login məlumatları
 BEU_BASE_URL = "https://my.beu.edu.az"
 BEU_LOGIN_URL = f"{BEU_BASE_URL}/index.php"
 BEU_GRADES_URL = f"{BEU_BASE_URL}/?mod=grades"
-USERNAME = "230106049"
-PASSWORD = "LTN2005055"
+USERNAME = "ID"
+PASSWORD = "PASSWORD"
 
 CHECK_INTERVAL = 300  # 5 dəqiqə
 DATA_FILE = "beu_grades_data.json"
